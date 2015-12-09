@@ -53,6 +53,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Mapping\Categories\CategoriesMap.cs" />
     <Compile Include="Mapping\Master\CityMap.cs" />
     <Compile Include="Mapping\Master\CountryMap.cs" />
     <Compile Include="Mapping\Customers\CustomersMap.cs" />
@@ -60,6 +61,7 @@
     <Compile Include="Mapping\Master\RegionMap.cs" />
     <Compile Include="NHibernateUtils.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repository\CategoriesRepository.cs" />
     <Compile Include="Repository\CustomersRepository.cs" />
     <Compile Include="Repository\MasterRepository.cs" />
     <Compile Include="UnitOfWork.cs" />
