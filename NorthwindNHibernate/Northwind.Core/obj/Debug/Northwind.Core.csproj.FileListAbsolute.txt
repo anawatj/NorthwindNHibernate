@@ -1,0 +1,7 @@
+D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Core\bin\Debug\Northwind.Core.dll
+D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Core\bin\Debug\Northwind.Core.pdb
+D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Core\obj\Debug\Northwind.Core.csprojResolveAssemblyReference.cache
+D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Core\obj\Debug\Northwind.Core.dll
+D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Core\obj\Debug\Northwind.Core.pdb
+D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Core\bin\Debug\NHibernate.dll
+D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Core\bin\Debug\NHibernate.xml

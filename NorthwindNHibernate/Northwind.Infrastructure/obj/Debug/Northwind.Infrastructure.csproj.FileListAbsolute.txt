@@ -1,0 +1,14 @@
+D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Infrastructure\bin\Debug\Northwind.Infrastructure.dll
+D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Infrastructure\bin\Debug\Northwind.Infrastructure.pdb
+D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Infrastructure\bin\Debug\FluentNHibernate.dll
+D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Infrastructure\bin\Debug\Iesi.Collections.dll
+D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Infrastructure\bin\Debug\NHibernate.dll
+D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Infrastructure\bin\Debug\Northwind.Core.dll
+D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Infrastructure\bin\Debug\Northwind.Core.pdb
+D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Infrastructure\bin\Debug\FluentNHibernate.pdb
+D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Infrastructure\bin\Debug\FluentNHibernate.xml
+D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Infrastructure\bin\Debug\Iesi.Collections.xml
+D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Infrastructure\bin\Debug\NHibernate.xml
+D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Infrastructure\obj\Debug\Northwind.Infrastructure.csprojResolveAssemblyReference.cache
+D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Infrastructure\obj\Debug\Northwind.Infrastructure.dll
+D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Infrastructure\obj\Debug\Northwind.Infrastructure.pdb
