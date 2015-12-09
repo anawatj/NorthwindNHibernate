@@ -37,6 +37,7 @@ namespace Northwind.Web.DependencyResolution {
             For<IUnitOfWork>().Use<UnitOfWork>().Singleton();
             For<ICustomersRepository>().Use<CustomersRepository>();
             For<MasterRepository>().Use<MasterRepository>();
+            For<ICategoriesRepository>().Use<CategoriesRepository>();
         }
 
         #endregion
