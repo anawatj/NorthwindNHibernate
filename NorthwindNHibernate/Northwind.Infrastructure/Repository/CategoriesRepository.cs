@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Northwind.Core.Domain.Categories;
 using Northwind.Core;
+using NHibernate.Criterion;
 
 namespace Northwind.Infrastructure.Repository
 {
@@ -24,22 +25,51 @@ namespace Northwind.Infrastructure.Repository
 
         public Categories FindByID(long id)
         {
-            throw new NotImplementedException();
+            var criteria = this.unitOfWork.CurrentSession.CreateCriteria<Categories>();
+            criteria.Add(Restrictions.Eq("ID", id));
+            Categories result = criteria.UniqueResult<Categories>();
+            return result;
         }
 
         public Dictionary<string, object> FindByQuery(CategoriesQuery query)
         {
-            throw new NotImplementedException();
+            var criteria = this.unitOfWork.CurrentSession.CreateCriteria<Categories>();
+            if(!string.IsNullOrEmpty(query.CategoryCode))
+            {
+                if(query.CategoryCode.Contains("*") || query.CategoryCode.Contains("?"))
+                {
+                    criteria.Add(Restrictions.Like("CategoryCode", query.CategoryCode.Replace("*", "%").Replace("?", "_")));
+                }
+                else
+                {
+                    criteria.Add(Restrictions.Eq("CategoryCode", query.CategoryCode));
+                }
+            }
+            if(!string.IsNullOrEmpty(query.CategoryName))
+            {
+                if(query.CategoryName.Contains("*") || query.CategoryName.Contains("?"))
+                {
+                    criteria.Add(Restrictions.Like("CategoryName", query.CategoryName.Replace("*", "%").Replace("?", "_")));
+                }
+                else
+                {
+                    criteria.Add(Restrictions.Eq("CategoryName", query.CategoryName));
+                }
+            }
+            return null;
         }
 
         public void Remove(long id)
         {
-            throw new NotImplementedException();
+            Categories data = FindByID(id);
+            unitOfWork.CurrentSession.Delete(data);
         }
 
         public Categories Save(Categories entity)
         {
-            throw new NotImplementedException();
+            Categories data = FindByID(entity.ID);
+            Categories result = unitOfWork.CurrentSession.Merge(entity);
+            return result;
         }
     }
 }

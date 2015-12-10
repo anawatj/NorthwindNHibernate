@@ -1,4 +1,3 @@
-D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Web\obj\Debug\Northwind.Web.csprojResolveAssemblyReference.cache
 D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Web\bin\roslyn\csc.exe
 D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
@@ -15,8 +14,12 @@ D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Web\b
 D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Web\bin\Northwind.Web.dll
 D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Web\bin\Northwind.Web.pdb
 D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Web\bin\FluentNHibernate.dll
+D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Web\bin\Glimpse.AspNet.dll
+D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Web\bin\Glimpse.Core.dll
+D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Web\bin\Glimpse.Mvc5.dll
 D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Web\bin\Iesi.Collections.dll
 D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Web\bin\Microsoft.Practices.ServiceLocation.dll
 D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Web\bin\Microsoft.Web.Infrastructure.dll
 D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Web\bin\Newtonsoft.Json.dll
 D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Web\bin\NHibernate.dll
@@ -34,12 +37,15 @@ D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Web\b
 D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Web\bin\System.Web.Webpages.Deployment.dll
 D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Web\bin\System.Web.Webpages.dll
 D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Web\bin\System.Web.Webpages.Razor.dll
+D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Web\bin\WebActivatorEx.dll
 D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Web\bin\Northwind.Core.pdb
 D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Web\bin\Northwind.Infrastructure.pdb
 D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Web\bin\FluentNHibernate.pdb
 D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Web\bin\FluentNHibernate.xml
 D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Web\bin\Iesi.Collections.xml
 D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Web\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Web\bin\Microsoft.Practices.ServiceLocation.xml
 D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Web\bin\Newtonsoft.Json.xml
 D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Web\bin\NHibernate.xml
 D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Web\bin\StructureMap.pdb
@@ -56,9 +62,8 @@ D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Web\b
 D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Web\bin\System.Net.Http.Formatting.xml
 D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Web\bin\System.Web.Http.xml
 D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Web\bin\System.Web.Http.WebHost.xml
+D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Web\obj\Debug\Northwind.Web.csprojResolveAssemblyReference.cache
 D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Web\obj\Debug\Northwind.Web.dll
 D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Web\obj\Debug\Northwind.Web.pdb
-D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Web\bin\Microsoft.Practices.ServiceLocation.dll
-D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Web\bin\WebActivatorEx.dll
-D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Web\bin\Microsoft.Practices.ServiceLocation.pdb
-D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Web\bin\Microsoft.Practices.ServiceLocation.xml
+D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Web\bin\Glimpse.Ado.dll
+D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Web\bin\NHibernate.Glimpse.dll
