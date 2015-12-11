@@ -30,8 +30,8 @@ namespace Northwind.Infrastructure.Mapping.Employees
             Map(t => t.Notes).Length(1000);
             References(t => t.Department).Column("DepartmentID").LazyLoad();
             References(t => t.ReportTo).Column("ReportTo").LazyLoad();
-            HasMany(t => t.Educations).AsSet().Cascade.AllDeleteOrphan().LazyLoad();
-            HasMany(t => t.Experiences).AsSet().Cascade.AllDeleteOrphan().LazyLoad();
+            HasMany(t => t.Educations).AsSet().KeyColumn("EmployeeID").Cascade.AllDeleteOrphan().LazyLoad();
+            HasMany(t => t.Experiences).AsSet().KeyColumn("EmployeeID").Cascade.AllDeleteOrphan().LazyLoad();
             HasManyToMany(t => t.Territories).AsSet().Table("EmployeesTerritories").ParentKeyColumn("EmployeeID").ChildKeyColumn("TerritoryID").Cascade.All().LazyLoad();
             Map(t => t.CreateBy).Length(20);
             Map(t => t.CreateDate);
