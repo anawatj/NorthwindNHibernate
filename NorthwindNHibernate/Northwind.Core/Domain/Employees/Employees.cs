@@ -34,6 +34,8 @@ namespace Northwind.Core.Domain.Employees
 
         public virtual Department Department { get; set; }
         public virtual Employees ReportTo { get; set; }
+        public virtual string Notes { get; set; }
+
 
         public virtual ISet<Experiences> Experiences { get; set; }
         public virtual ISet<Educations> Educations { get; set; }
