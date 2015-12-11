@@ -67,6 +67,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repository\ICategoriesRepository.cs" />
     <Compile Include="Repository\ICustomersRepository.cs" />
+    <Compile Include="Repository\IEmployeesRepository.cs" />
+    <Compile Include="Repository\ITerritoriesRepository.cs" />
     <Compile Include="Repository\Repository.cs" />
   </ItemGroup>
   <ItemGroup />
