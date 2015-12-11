@@ -1,0 +1,7 @@
+D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Test\bin\Debug\Northwind.Test.dll
+D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Test\bin\Debug\Northwind.Test.pdb
+D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Test\obj\Debug\Northwind.Test.csprojResolveAssemblyReference.cache
+D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Test\obj\Debug\Northwind.Test.dll
+D:\Download\Github\NorthwindNHibernate\trunk\NorthwindNHibernate\Northwind.Test\obj\Debug\Northwind.Test.pdb
