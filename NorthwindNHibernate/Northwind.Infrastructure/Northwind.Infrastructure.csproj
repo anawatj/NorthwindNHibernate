@@ -65,6 +65,13 @@
     <Compile Include="Mapping\Master\EducationLevelMap.cs" />
     <Compile Include="Mapping\Master\RegionMap.cs" />
     <Compile Include="Mapping\Master\TitleMap.cs" />
+    <Compile Include="Mapping\Orders\OrderDetailsMap.cs" />
+    <Compile Include="Mapping\Orders\OrdersMap.cs" />
+    <Compile Include="Mapping\Products\ProductsMap.cs" />
+    <Compile Include="Mapping\Purchases\PurchaseDetailsMap.cs" />
+    <Compile Include="Mapping\Purchases\PurchasesMap.cs" />
+    <Compile Include="Mapping\Shippers\ShippersMap.cs" />
+    <Compile Include="Mapping\Suppliers\SuppliersMap.cs" />
     <Compile Include="Mapping\Territories\TerritoriesMap.cs" />
     <Compile Include="NHibernateUtils.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -72,6 +79,11 @@
     <Compile Include="Repository\CustomersRepository.cs" />
     <Compile Include="Repository\EmployeesRepository.cs" />
     <Compile Include="Repository\MasterRepository.cs" />
+    <Compile Include="Repository\OrdersRepository.cs" />
+    <Compile Include="Repository\ProductsRepository.cs" />
+    <Compile Include="Repository\PurchasesRepository.cs" />
+    <Compile Include="Repository\ShippersRepository.cs" />
+    <Compile Include="Repository\SuppliersRepository.cs" />
     <Compile Include="Repository\TerritoriesRepository.cs" />
     <Compile Include="UnitOfWork.cs" />
   </ItemGroup>
